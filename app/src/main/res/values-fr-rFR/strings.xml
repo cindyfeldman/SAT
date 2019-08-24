@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SAT</string>
+    <string name="Login">s\'identifier</string>
+    <string name="Sign_up">" Ne pas avoir et compte? S'inscrire maintenant"</string>
+    <string name="action_sign_in">s\'identifier</string>
+    <string name="action_sign_in_short">" se connecter"</string>
+    <string name="invalid_password">Le mot de passe doit comporter plus de 5 caractères.</string>
+    <string name="invalid_username">" Nom d'utilisateur non valide"</string>
+    <string name="login_failed">" Échec de la connexion"</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="register">" registre"</string>
+    <string name="welcome">Bienvenu !</string>
+    <string name="or">" Ou"</string>
+    <string name="google">"Connectez-vous avec Google   "</string>
+</resources>
